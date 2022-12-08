@@ -1,4 +1,4 @@
-  adapter: mysql2
+  adapter: mysql
   database: furimaapp38489_production
   username: root
   password: <%= ENV['DATABASE_PASSWORD'] %>
